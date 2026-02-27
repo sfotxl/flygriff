@@ -23,7 +23,7 @@ struct HomeView: View {
 
                     VStack(alignment: .leading, spacing: 8) {
                         Text("Welcome").font(.title3).bold()
-                        Text("This app was designed to make it easier for James's boyfriend to build him a flight map.")
+                        Text("This app was designed to make it easier to track and save flight data.")
                     }
 
                     VStack(alignment: .leading, spacing: 8) {
